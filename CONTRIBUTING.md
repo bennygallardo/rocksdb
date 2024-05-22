@@ -1,4 +1,4 @@
-# Contributing to RocksDB
+# Contributing to RocksDB repo
 
 ## Code of Conduct
 The code of conduct is described in [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
